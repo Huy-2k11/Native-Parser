@@ -1,4 +1,8 @@
+<img width="576" height="825" alt="image" src="https://github.com/user-attachments/assets/11e57fd3-d694-4dee-a73d-073587ff0d7f" />
+
+
 Balance Checker for Multi-Chain Wallets
+
 A Python script that checks native token balances (ETH, BNB, POL) across 6 blockchains: Ethereum, Optimism, Arbitrum, Base, BSC, Polygon — using multiple RPCs and optional proxies. Outputs results to balances.xlsx.Required Packages (install via pip)bash
 
 pip install web3 pandas openpyxl requests
