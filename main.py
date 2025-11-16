@@ -21,13 +21,11 @@ logger = logging.getLogger(__name__)
 # Список RPC-нод для каждой сети
 RPC_URLS = {
     'Ethereum': [
-        'https://eth-mainnet.g.alchemy.com/v2/i1FizFX_Eiwg53stqhxe3dsc9LAR_M1M',
         'https://ethereum-rpc.publicnode.com',
         'https://eth.drpc.org'
     ],
     'Optimism': [
-        'https://mainnet.optimism.io',
-        'https://opt-mainnet.g.alchemy.com/v2/i1FizFX_Eiwg53stqhxe3dsc9LAR_M1M'
+        'https://mainnet.optimism.io'
     ],
     'Arbitrum': [
         'https://arbitrum-one-rpc.publicnode.com',
