@@ -23,4 +23,3 @@ Checksum address validation
 Excel export with wallet labels
 
 Made for airdrop hunters & wallet auditors!
-
